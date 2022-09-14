@@ -1,0 +1,22 @@
+0000000000000000000000000000000000000000 d429203aa304cba0a1beb7fda8219d916c1e2fce Brandon Julio Thenaro <brandon.julio.t@icloud.com> 1663050281 +0000	clone: from https://github.com/brandon-julio-t/simple-java-maven-app
+d429203aa304cba0a1beb7fda8219d916c1e2fce f1de94cbe62694850b5bbe97f2db50dc4016d8f6 Brandon Julio Thenaro <brandon.julio.t@icloud.com> 1663050519 +0000	commit: fix: build error
+f1de94cbe62694850b5bbe97f2db50dc4016d8f6 3c97ae02b653eb80badd7811f2c536e7759a8066 Brandon Julio Thenaro <brandon.julio.t@icloud.com> 1663050810 +0000	commit: fix: error build
+3c97ae02b653eb80badd7811f2c536e7759a8066 3198424d0637281f8720662961a1f37f86d92dbf Brandon Julio Thenaro <brandon.julio.t@icloud.com> 1663119472 +0000	commit: feat: add sleep
+3198424d0637281f8720662961a1f37f86d92dbf 5591dd51ab3869b8f815ae67c86dba532f52cc3f Brandon Julio Thenaro <brandon.julio.t@icloud.com> 1663119614 +0000	commit: feat: add sleep and input
+5591dd51ab3869b8f815ae67c86dba532f52cc3f 7418ad4ade326fd13a1d031aa932217da32006bd Brandon Julio Thenaro <brandon.julio.t@icloud.com> 1663124344 +0000	commit: fix: test
+7418ad4ade326fd13a1d031aa932217da32006bd 0cea95f324b2df7d24a808455f78813b69af30ab Brandon Julio Thenaro <brandon.julio.t@icloud.com> 1663124410 +0000	commit: test
+0cea95f324b2df7d24a808455f78813b69af30ab 82af2cb4ac6ea5fdd246c7e6cfa54b09e1d6025b Brandon Julio Thenaro <brandon.julio.t@icloud.com> 1663124671 +0000	commit: test
+82af2cb4ac6ea5fdd246c7e6cfa54b09e1d6025b 10cc44c45827da4de7e225776094b417250a4a6b Brandon Julio Thenaro <brandon.julio.t@icloud.com> 1663124854 +0000	commit: test
+10cc44c45827da4de7e225776094b417250a4a6b 39dfbc459e256b0f2589e627c7c8712edecaf3af Brandon Julio Thenaro <brandon.julio.t@icloud.com> 1663124907 +0000	commit: test
+39dfbc459e256b0f2589e627c7c8712edecaf3af f6a6992120a1311cda471ce3ebb3e49a74152a98 Brandon Julio Thenaro <brandon.julio.t@icloud.com> 1663124936 +0000	commit: test
+f6a6992120a1311cda471ce3ebb3e49a74152a98 d366225fef113c4f172100e8a1042ddf3a8d3fd4 Brandon Julio Thenaro <brandon.julio.t@icloud.com> 1663125077 +0000	commit: test
+d366225fef113c4f172100e8a1042ddf3a8d3fd4 b85a0945078757005130fb39119d475c431c3be4 Brandon Julio Thenaro <brandon.julio.t@icloud.com> 1663125164 +0000	commit: test
+b85a0945078757005130fb39119d475c431c3be4 bf9644c2cfbe53ec903c279faf20d3efd0c9671e Brandon Julio Thenaro <brandon.julio.t@icloud.com> 1663125372 +0000	commit: test
+bf9644c2cfbe53ec903c279faf20d3efd0c9671e c92cc8a8509e13837821c4338b223e7e64b7249d Brandon Julio Thenaro <brandon.julio.t@icloud.com> 1663125751 +0000	commit: test
+c92cc8a8509e13837821c4338b223e7e64b7249d 638bc8f91add497c53986115fd04526389ec08be Brandon Julio Thenaro <brandon.julio.t@icloud.com> 1663125822 +0000	commit: test
+638bc8f91add497c53986115fd04526389ec08be d3bb9b623fe308bc36f28101fc0c3019ffb70774 Brandon Julio Thenaro <brandon.julio.t@icloud.com> 1663127398 +0000	commit: test
+d3bb9b623fe308bc36f28101fc0c3019ffb70774 9856c602193b1cd4d2ead86a8c483c33b2785f7c Brandon Julio Thenaro <brandon.julio.t@icloud.com> 1663127418 +0000	commit: test
+9856c602193b1cd4d2ead86a8c483c33b2785f7c 27df075433a732bfa5fbe2f082f76f67965e1134 Brandon Julio Thenaro <brandon.julio.t@icloud.com> 1663128095 +0000	commit: test
+27df075433a732bfa5fbe2f082f76f67965e1134 b0cf278c467f22675cd66e051aec3e77be058fc4 Brandon Julio Thenaro <brandon.julio.t@icloud.com> 1663129782 +0000	commit: test
+b0cf278c467f22675cd66e051aec3e77be058fc4 fe012caf80152410d303e42637ed2ce062839284 Brandon Julio Thenaro <brandon.julio.t@icloud.com> 1663130066 +0000	commit: test
+fe012caf80152410d303e42637ed2ce062839284 8e2390153850a32d5bce0058b83927aa94967c2a Brandon Julio Thenaro <brandon.julio.t@icloud.com> 1663131263 +0000	commit: test

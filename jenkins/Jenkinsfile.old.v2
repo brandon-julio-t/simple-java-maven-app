@@ -1,0 +1,26 @@
+node {
+    docker.image('maven:3-alpine').inside {
+        stage('Build') {
+            sh 'mvn -B -DskipTests clean package'
+        }
+
+        stage('Test') {
+            try {
+                sh 'mvn test'
+            } finally {
+                junit 'target/surefire-reports/*.xml'
+            }
+        }
+
+        stage('Manual Approval') {
+            input 'Lanjutkan ke tahap Deploy?'
+        }
+
+        stage('Deploy') {
+            sh 'cat ./pom.xml'
+            sh './jenkins/scripts/deliver.sh'
+            sh 'HEROKU_API_KEY="416ebfeb-2d7d-46ff-b33f-6bbbe5a09964" mvn heroku:deploy'
+            sleep time: 1, unit: 'MINUTES'
+        }
+    }
+}
